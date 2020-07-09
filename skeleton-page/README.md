@@ -1,19 +1,8 @@
 # skeleton
 
-## Project setup
-```
-npm install
-```
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+运用插件 page-skeleton-webpack-plugin ，饿了么团队开发，停止维护了
 
-### Compiles and minifies for production
-```
-npm run build
-```
+不支持hash路由
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
